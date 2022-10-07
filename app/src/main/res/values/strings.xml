@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_Favorite">Favorite</string>
+
+    <string name="navigation_drawr_open">navigation_drawr_open</string>
+    <string name="navigation_drawr_close">navigation_drawr_close</string>
+</resources>
